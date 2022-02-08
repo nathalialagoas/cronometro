@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(227, 200, 252);
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    height:3.0em;
+    width: 10.0em;
+    border:none;
+}
+
+button:hover{
+    cursor:pointer;
+}
+
+.start-btn{
+    background-color:papayawhip;
+}
+
+.pause-btn{
+    background-color:pink;
+}
+
+.stop-btn{
+    background-color:palevioletred;
+}
